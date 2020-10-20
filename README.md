@@ -21,7 +21,7 @@ python Main.py
 
 
 ### TO DO
-   Make it AR.
+    -> Make it AR.
 
 ### Credits
    Sudoku algo - Tim Ruscica
