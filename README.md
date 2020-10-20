@@ -17,12 +17,13 @@ pip install numpy
 
 
 Put sudoku image in Utils folder and substitute your image's name from given pathImage variable in Main.py 
-And run python Main.py
-
+And run 
+```bash
+python Main.py
+```
 
 
 #### TO DO
-
    Make it AR.
 
 #### Credits
