@@ -4,7 +4,7 @@
 
 <img align="left" src="https://i.imgur.com/SJKR9gC.png" width="600px"/>
 
-#### Installation
+### Installation
 
 ```bash
 pip install tensorflow 
@@ -12,10 +12,7 @@ pip install opencv-python
 pip install numpy
 
 ```
-
-#### Usage
-
-
+### Usage
 Put sudoku image in Utils folder and substitute your image's name from given pathImage variable in Main.py 
 And run 
 ```bash
@@ -23,9 +20,9 @@ python Main.py
 ```
 
 
-#### TO DO
+### TO DO
    Make it AR.
 
-#### Credits
+### Credits
    Sudoku algo - Tim Ruscica
 
