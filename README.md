@@ -2,7 +2,7 @@
 
 ### A Program that attempts to extract a Sudoku game given an image and then solves it. 
 
-<img align="left" src="https://i.imgur.com/SJKR9gC.png" width="600px"/>
+<img align="left" src="https://i.imgur.com/SJKR9gC.png" width="620px"/>
 
 ### Installation
 
